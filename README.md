@@ -19,4 +19,4 @@ I recommend to create venv
 *Start testing:*
 http://localhost:8000/docs
 
-![alt text](https://github.com/evgrmn/FastAPI_JWT/pic.png?raw=true)
+![alt text](https://github.com/evgrmn/FastAPI_JWT/blob/main/pic.png?raw=true)
