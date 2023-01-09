@@ -25,6 +25,3 @@ Works great with Debian 11 and Python 3.9, Ubuntu 22.04 and Python 3.10
 
 
 
-
-
-sudo apt-get install python3-venv
