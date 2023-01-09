@@ -1,5 +1,5 @@
 # FastAPI_JWT
-FastAPI User Authentication with JWT simple example
+A simple example of FastAPI user authentication using JWT. The functionality allows you to: create users; generate tokens; get user data; create user posts; view, update, delete user posts; put likes and dislikes on posts that do not concern the user.
 
 ## Installation
 - download files 
@@ -15,3 +15,6 @@ I recommend to create venv
 
 *Start server:*
 - uvicorn main:app --reload
+
+*Start testing:*
+http://localhost:8000/docs
