@@ -22,7 +22,7 @@ http://localhost:8000/docs
 
 ![alt text](https://github.com/evgrmn/FastAPI_JWT/blob/main/pic.png?raw=true)
 
-Works great with Debian 11 and Python 3.9, Ubuntu 22.04 and Python 3.10
+Works great, e.g., with Debian 11 and Python 3.9, Ubuntu 22.04 and Python 3.10
 
 You can inspect 'database.db' file typing in your terminal:
 
