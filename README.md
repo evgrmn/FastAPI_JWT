@@ -8,7 +8,7 @@ I recommend to create venv
 
 *In main folder:*
 - python3 -m venv venv
-> Text that is a quote
+> sudo apt install python3-venv if 'venv' is not installed
 - source venv/bin/activate
 
 *Install requirements:*
