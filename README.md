@@ -5,6 +5,7 @@ FastAPI User Authentication with JWT simple example
 - download files 
 
 I recommend to create venv
+
 *In main folder:*
 - python3 -m venv venv
 - source venv/bin/activate
