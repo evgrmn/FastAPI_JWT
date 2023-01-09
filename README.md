@@ -7,7 +7,7 @@ A simple example of FastAPI user authentication using JWT. The functionality all
 I recommend to create venv
 
 *In main folder:*
-- python3 -m venv venv
+- python3 -m venv venv > Text that is a quote
 - source venv/bin/activate
 
 *Install requirements:*
