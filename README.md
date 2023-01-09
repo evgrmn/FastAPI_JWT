@@ -1,2 +1,2 @@
 # FastAPI_JWT
-FastAPI User Authentification with JWT
+FastAPI User Authentication with JWT simple example
