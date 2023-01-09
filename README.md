@@ -26,12 +26,12 @@ Works great, e.g., with Debian 11 and Python 3.9, Ubuntu 22.04 and Python 3.10
 
 You can check the "database.db" file by typing in your terminal:
 
--sqlite3 database.db
+- sqlite3 database.db
 > sudo apt install sqlite3 *if 'SQLite' is not installed*
 
 Then try for example:
 
--select * from users;
+- select * from users;
 
 
 
