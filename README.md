@@ -20,3 +20,5 @@ I recommend to create venv
 http://localhost:8000/docs
 
 ![alt text](https://github.com/evgrmn/FastAPI_JWT/blob/main/pic.png?raw=true)
+
+Working fine with Debian 11 and Python 3.9
