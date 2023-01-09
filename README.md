@@ -21,4 +21,10 @@ http://localhost:8000/docs
 
 ![alt text](https://github.com/evgrmn/FastAPI_JWT/blob/main/pic.png?raw=true)
 
-Working fine with Debian 11 and Python 3.9
+Works great with Debian 11 and Python 3.9, Ubuntu 22.04 and Python 3.10
+
+
+
+
+
+sudo apt-get install python3-venv
