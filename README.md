@@ -5,12 +5,12 @@ FastAPI User Authentication with JWT simple example
 - download files 
 
 I recommend to create venv
-In main folder:
+*In main folder:*
 - python3 -m venv venv
 - source venv/bin/activate
 
-Install requirements:
+*Install requirements:*
 - pip install -r requirements.txt
 
-Start server:
+*Start server:*
 - uvicorn main:app --reload
