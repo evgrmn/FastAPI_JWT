@@ -1,5 +1,5 @@
 # FastAPI_JWT
 FastAPI User Authentication with JWT simple example
 
-Installation
+## Installation
 pip install -r requirements.txt
